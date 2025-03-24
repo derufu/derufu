@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**derufu/derufu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Delf, a passionate developer who loves building clean and creative solutions.  
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🔭 Currently working on exciting PHP and JavaScript projects  
+- 💡 Exploring full-stack development with Laravel, Vue, and Filament  
+- 🎯 Always learning something new  
+- 🌐 Portfolio: delfboston.site
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true)
+
+## 🚀 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourname)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+Thanks for stopping by! ⭐
