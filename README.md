@@ -10,9 +10,9 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📊 GitHub Stats
+//## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=derufu&show_icons=true&theme=radical&hide_border=true)
+//![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=derufu&show_icons=true&theme=radical&hide_border=true)
 
 ## 🚀 Top Languages
 
