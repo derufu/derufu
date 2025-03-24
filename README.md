@@ -22,7 +22,6 @@ Welcome to my GitHub profile!
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourname)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/delfcarlboston)
 
 Thanks for stopping by! ⭐
