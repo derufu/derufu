@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 # Hi there 👋
 
 I'm Delf, a passionate developer who loves building clean and creative solutions.  
