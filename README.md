@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 - 🔭 Currently working on exciting PHP and JavaScript projects  
 - 💡 Exploring full-stack development
 - 🎯 Always learning something new  
-- 🌐 Portfolio: [delfboston.site](https://delfboston.site)/derufu.github.io/derufu-portfolio(https://derufu.github.io/derufu-portfolio/)
+- 🌐 Portfolio: [delfboston.site](https://delfboston.site)/(https://derufu.github.io/derufu-portfolio/)
 
 ---
 
