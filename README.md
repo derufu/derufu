@@ -204,11 +204,11 @@ Applications built with authentication, authorization, validation, role-based ac
 
 # 📈 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=derufu&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Delf Boston's GitHub Activity Graph"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/derufu">
+    <img src="https://img.shields.io/badge/View_My_GitHub_Activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Activity"/>
+  </a>
+</p>
 
 ---
 
