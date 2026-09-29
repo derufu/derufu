@@ -186,9 +186,9 @@ Applications built with authentication, authorization, validation, role-based ac
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=derufu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Delf Boston's GitHub Stats"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=derufu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Delf Boston's GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derufu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Delf Boston's Top Languages"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=derufu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Delf Boston's Top Languages"/>
 
 </div>
 
