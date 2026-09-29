@@ -206,7 +206,7 @@ Applications built with authentication, authorization, validation, role-based ac
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=derufu&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=derufu&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Delf Boston's GitHub Activity Graph"/>
 
 </div>
 
